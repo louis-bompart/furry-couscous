@@ -1,0 +1,17 @@
+{
+  "packageDirectories": [
+      {
+          "path": "force-app",
+          "package": "FooBarPackage",
+          "versionName": "ver 2.0",
+          "versionNumber": "2.0.0.NEXT",
+          "default": true
+      }
+  ],
+  "namespace": "foobarbaz",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "47.0",
+  "packageAliases": {
+      "FooBarPackage": "0Ho3h000000TN1tCAG"
+  }
+} 
